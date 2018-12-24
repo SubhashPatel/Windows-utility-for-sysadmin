@@ -1,11 +1,3 @@
-#################################################################################
-# ActiveXperts Network Monitor PowerShell script, � ActiveXperts Software B.V.
-# For more information about ActiveXperts Network Monitor, visit the ActiveXperts 
-# Network Monitor web site at http://www.activexperts.com
-#################################################################################
-# Script
-#     Cpu.ps1
-# Description:
 #     This script checks the cpu usage of the define processor on the define computer
 # Parameters:
 #     1) strComputer (string)  - Hostname or IP address of the computer you want to monitor
